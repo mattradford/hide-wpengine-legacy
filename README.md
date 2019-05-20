@@ -1,9 +1,9 @@
-# hide-wpengine-legacy
+# Hide WP Engine Legacy
 Hide WP Engine's Legacy Staging links, to avoid confusion with the newer production, staging and development environments.
 
-== Description ==
+## Description
 
-** This is not an official WP Engine plugin **
+**This is not an official WP Engine plugin**
 
 Remove confusion about _staging_ on WP Engine.
 
@@ -11,7 +11,7 @@ Some WP Engine accounts have access to both Legacy Staging and the newer product
 
 This plugin will only affect WP Engine accounts with access to Legacy Staging. It will remove the menu links to these Legacy Staging environments. It will not affect any Legacy Staging environments themselves.
 
-== Installation ==
+## Installation
 
 1. Install through the WordPress plugin repository.
 
@@ -22,21 +22,21 @@ Or:
 
 There are no configurable settings.
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions
 
-= How will this affect any existing legacy staging environments I have? =
+### How will this affect any existing legacy staging environments I have?
 
 It won't. They will still be accssible.
 
-= Help! I can't access my legacy staging environments! =
+### Help! I can't access my legacy staging environments!
 
 Please deactivate the plugin.
 
-= I activated the plugin but nothing happened =
+### I activated the plugin but nothing happened
 
 If you've activated the plugin anywhere but on a WP Engine WordPress install with access to Legacy Staging, nothing will happen. Go about your day.
 
-== Changelog ==
+## Changelog
 
-= 1.0.0 =
+### 1.0.0
 * Initial release.
