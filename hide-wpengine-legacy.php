@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Hide WP Engine Legacy Staging
- * Plugin URI: https://www.10degrees.uk
+ * Plugin URI: https://github.com/mattradford/hide-wpengine-legacy
  * Description: Hide WP Engine's Legacy Staging links, to avoid confusion with the newer production, staging and development environments.
  * Version: 1.0.0
  * Author: Matt Radford
