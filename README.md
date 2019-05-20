@@ -1,4 +1,4 @@
-# Hide WP Engine Legacy
+# Hide WP Engine Legacy Staging
 Hide WP Engine's Legacy Staging links, to avoid confusion with the newer production, staging and development environments.
 
 ## Description
