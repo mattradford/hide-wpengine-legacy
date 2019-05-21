@@ -38,5 +38,8 @@ If you've activated the plugin anywhere but on a WP Engine WordPress install wit
 
 ## Changelog
 
+### 1.0.1
+* Fix plugin URI.
+
 ### 1.0.0
 * Initial release.
