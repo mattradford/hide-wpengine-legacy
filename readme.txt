@@ -4,7 +4,7 @@ Tags: wpengine
 Requires at least: 5.0
 Tested up to: 5.2
 Requires PHP: 5.2.4
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,7 +26,7 @@ This plugin will only affect WP Engine accounts with access to Legacy Staging. I
 
 Or:
 
-1. Upload `hide-wpe-legacy.zip` to the `/wp-content/plugins/` directory
+1. Upload `hide-wp-engine-legacy-staging.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 There are no configurable settings.
@@ -35,17 +35,20 @@ There are no configurable settings.
 
 = How will this affect any existing legacy staging environments I have? =
 
-It won't. They will still be accssible.
+It won't. They will still be accessible.
 
 = Help! I can't access my legacy staging environments! =
 
-Please deactivate the plugin.
+Please deactivate the plugin. Your Legacy Staging links will become visible again.
 
 = I activated the plugin but nothing happened =
 
 If you've activated the plugin anywhere but on a WP Engine WordPress install with access to Legacy Staging, nothing will happen. Go about your day.
 
 == Changelog ==
+
+= 1.0.3 =
+* Fix typo. Update FAQ.
 
 = 1.0.2 =
 * Fix plugin slug.

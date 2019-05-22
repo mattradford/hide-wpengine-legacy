@@ -26,17 +26,20 @@ There are no configurable settings.
 
 ### How will this affect any existing legacy staging environments I have?
 
-It won't. They will still be accssible.
+It won't. They will still be accessible.
 
 ### Help! I can't access my legacy staging environments!
 
-Please deactivate the plugin.
+Please deactivate the plugin. Your Legacy Staging links will become visible again within the WordPress dashboard.
 
 ### I activated the plugin but nothing happened
 
 If you've activated the plugin anywhere but on a WP Engine WordPress install with access to Legacy Staging, nothing will happen. Go about your day.
 
 ## Changelog
+
+### 1.0.3
+* Fix typo. Update FAQ.
 
 ### 1.0.2
 * Fix plugin slug.
