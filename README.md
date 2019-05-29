@@ -38,6 +38,9 @@ If you've activated the plugin anywhere but on a WP Engine WordPress install wit
 
 ## Changelog
 
+### 1.0.0
+* Multisite compatability.
+
 ### 1.0.4
 * Add icon.
 
